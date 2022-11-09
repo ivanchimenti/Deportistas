@@ -1,6 +1,6 @@
 package pb2.unlam.edu.ar;
 
-public class Socio {
+public abstract class Socio {
     protected Integer nro;
     protected String nombre;
 
